@@ -1,5 +1,5 @@
 # task_tracker
-#### React JS - Components, props, state, hooks, working with API, react-router-dom
+#### React JS - Components, props, state, hook, working with API, react-router-dom
 <p align = 'center'>
  <img width="526" alt="Screen Shot 2021-07-25 at 11 22 59 AM" src="https://user-images.githubusercontent.com/29718034/126909286-bbd3ecde-6f59-4e90-ad66-35ee57bea25b.png">
   <img width="522" alt="Screen Shot 2021-07-25 at 11 23 53 AM" src="https://user-images.githubusercontent.com/29718034/126909315-f2275bc2-ed6a-410c-85ad-050860e8c47a.png">
